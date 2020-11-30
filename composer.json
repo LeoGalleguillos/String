@@ -1,4 +1,5 @@
 {
+    "abandoned": "monthly-basis/string",
     "name": "leo-galleguillos/string",
     "license": "MIT",
     "require": {
